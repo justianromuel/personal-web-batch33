@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(227, 231, 235) !important;
+}
+
+.navbar {
+    background-color: rgb(244, 243, 243) !important;
+}
+
+/* text rata kanan-kiri */
+.text-justify {
+    text-align: justify !important;
+}
+
+/* border radius fix 10px */
+.border-radius {
+    border-radius: 10px !important;
+}
+
+/* border radius untuk topnya saja */
+.border-radius-top {
+    border-radius: 10px 10px 0 0 !important;
+}
+
+/* hapus border line */
+.border-none {
+    border: none !important;
+}
+
+/* button footer*/
+.button-footer:last-child {
+    border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
+}
+
+/* button footer*/
+.button-footer {
+    padding: 0.5rem 0rem;
+}
+
+/* width 49% */
+.w-49 {
+    width: 49% !important;
+}
